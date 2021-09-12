@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609468606 source:d:\downloads\progs c\rpgzin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	<conio.h>
+
